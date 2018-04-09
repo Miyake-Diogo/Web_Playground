@@ -1,10 +1,10 @@
 # Web_Playground
-My web creations to learning Web Development
+My web creations to learning Web Development<br/>
 
-In this repository have  projects created when I was studying web development.
+<b>In this repository have  projects created when I was studying web development.</b><br/>
 
-This projects are:
-Spotify Clone
-Twitter Clone
-Bursting Balloons Game
-Hash Game
+These projects are:<br/>
+Spotify Clone;<br/>
+Twitter Clone;<br/>
+Bursting Balloons Game;<br/>
+Hash Game;<br/>
